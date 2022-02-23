@@ -1,0 +1,22 @@
+[35m[1mScanning dependencies of target motion_ref_generator[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/motion_ref_generator.dir/src/motion_ref_generator.cpp.o[0m
+[100%] [32m[1mLinking CXX executable motion_ref_generator[0m
+[100%] Built target motion_ref_generator
+-- Install configuration: ""
+-- Installing: /home/danielh/mas418_ros2_ws/install/crane_controller/lib/crane_controller/motion_ref_generator
+-- Set runtime path of "/home/danielh/mas418_ros2_ws/install/crane_controller/lib/crane_controller/motion_ref_generator" to ""
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller//launch
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller//launch/crane_controller.launch.py
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_controller/share/ament_index/resource_index/package_run_dependencies/crane_controller
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_controller/share/ament_index/resource_index/parent_prefix_path/crane_controller
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/environment/path.dsv
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/local_setup.bash
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/local_setup.sh
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/local_setup.zsh
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/local_setup.dsv
+-- Installing: /home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/package.dsv
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_controller/share/ament_index/resource_index/packages/crane_controller
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/cmake/crane_controllerConfig.cmake
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/cmake/crane_controllerConfig-version.cmake
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/package.xml

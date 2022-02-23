@@ -18,7 +18,7 @@ public:
   MotionReferencePublisher()
   : Node("motion_reference_publisher"), count_(0)
   {
-    publisher_ = this->create_publisher<crane_interfaces::msg::MotionReference>("topic", 10);
+    publisher_ = this->create_publisher<crane_interfaces::msg::MotionReference>("cyl_vel_ref", 10);
     timer_ = this->create_wall_timer(
       500ms, std::bind(&MotionReferencePublisher::timer_callback, this));
   }
