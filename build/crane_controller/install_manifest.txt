@@ -1,4 +1,5 @@
 /home/danielh/mas418_ros2_ws/install/crane_controller/lib/crane_controller/motion_ref_generator
+/home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller//launch/crane_controller.launch.py
 /home/danielh/mas418_ros2_ws/install/crane_controller/share/ament_index/resource_index/package_run_dependencies/crane_controller
 /home/danielh/mas418_ros2_ws/install/crane_controller/share/ament_index/resource_index/parent_prefix_path/crane_controller
 /home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/environment/ament_prefix_path.dsv
