@@ -1,0 +1,6 @@
+{
+  "package_name": "crane_interfaces",
+  "non_idl_tuples": [
+    "/home/danielh/mas418_ros2_ws/src/crane_interfaces:msg/MotionReference.msg"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "package_name": "crane_interfaces",
+  "output_dir": "/home/danielh/mas418_ros2_ws/build/crane_interfaces/rosidl_typesupport_c/crane_interfaces",
+  "template_dir": "/home/danielh/ros2_galactic/install/rosidl_typesupport_c/share/rosidl_typesupport_c/resource",
+  "idl_tuples": [
+    "/home/danielh/mas418_ros2_ws/build/crane_interfaces/rosidl_adapter/crane_interfaces:msg/MotionReference.idl"
+  ],
+  "target_dependencies": [
+    "/home/danielh/ros2_galactic/install/rosidl_typesupport_c/lib/rosidl_typesupport_c/rosidl_typesupport_c",
+    "/home/danielh/ros2_galactic/install/rosidl_typesupport_c/lib/python3.8/site-packages/rosidl_typesupport_c/__init__.py",
+    "/home/danielh/ros2_galactic/install/rosidl_typesupport_c/share/rosidl_typesupport_c/resource/action__type_support.c.em",
+    "/home/danielh/ros2_galactic/install/rosidl_typesupport_c/share/rosidl_typesupport_c/resource/idl__type_support.cpp.em",
+    "/home/danielh/ros2_galactic/install/rosidl_typesupport_c/share/rosidl_typesupport_c/resource/msg__type_support.cpp.em",
+    "/home/danielh/ros2_galactic/install/rosidl_typesupport_c/share/rosidl_typesupport_c/resource/srv__type_support.cpp.em",
+    "/home/danielh/mas418_ros2_ws/build/crane_interfaces/rosidl_adapter/crane_interfaces/msg/MotionReference.idl"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "package_name": "crane_interfaces",
+  "output_dir": "/home/danielh/mas418_ros2_ws/build/crane_interfaces/rosidl_typesupport_fastrtps_cpp/crane_interfaces",
+  "template_dir": "/home/danielh/ros2_galactic/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource",
+  "idl_tuples": [
+    "/home/danielh/mas418_ros2_ws/build/crane_interfaces/rosidl_adapter/crane_interfaces:msg/MotionReference.idl"
+  ],
+  "target_dependencies": [
+    "/home/danielh/ros2_galactic/install/rosidl_typesupport_fastrtps_cpp/lib/rosidl_typesupport_fastrtps_cpp/rosidl_typesupport_fastrtps_cpp",
+    "/home/danielh/ros2_galactic/install/rosidl_typesupport_fastrtps_cpp/lib/python3.8/site-packages/rosidl_typesupport_fastrtps_cpp/__init__.py",
+    "/home/danielh/ros2_galactic/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/idl__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/home/danielh/ros2_galactic/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/idl__type_support.cpp.em",
+    "/home/danielh/ros2_galactic/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/msg__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/home/danielh/ros2_galactic/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/msg__type_support.cpp.em",
+    "/home/danielh/ros2_galactic/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/srv__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/home/danielh/ros2_galactic/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/srv__type_support.cpp.em",
+    "/home/danielh/mas418_ros2_ws/build/crane_interfaces/rosidl_adapter/crane_interfaces/msg/MotionReference.idl"
+  ]
+}

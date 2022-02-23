@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danielh/mas418_ros2_ws/build/crane_interfaces/rosidl_generator_c/crane_interfaces/msg/detail/motion_reference__functions.c
+crane_interfaces/msg/detail/motion_reference__functions.h
+/home/danielh/mas418_ros2_ws/build/crane_interfaces/rosidl_generator_c/crane_interfaces/msg/detail/crane_interfaces/msg/detail/motion_reference__functions.h
+assert.h
+-
+stdbool.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/danielh/ros2_galactic/install/rosidl_runtime_c/include/rosidl_runtime_c/visibility_control.h
+
+rosidl_generator_c/crane_interfaces/msg/detail/motion_reference__functions.h
+stdbool.h
+-
+stdlib.h
+-
+rosidl_runtime_c/visibility_control.h
+rosidl_generator_c/crane_interfaces/msg/detail/rosidl_runtime_c/visibility_control.h
+crane_interfaces/msg/rosidl_generator_c__visibility_control.h
+rosidl_generator_c/crane_interfaces/msg/detail/crane_interfaces/msg/rosidl_generator_c__visibility_control.h
+crane_interfaces/msg/detail/motion_reference__struct.h
+rosidl_generator_c/crane_interfaces/msg/detail/crane_interfaces/msg/detail/motion_reference__struct.h
+
+rosidl_generator_c/crane_interfaces/msg/detail/motion_reference__struct.h
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+
+rosidl_generator_c/crane_interfaces/msg/rosidl_generator_c__visibility_control.h
+

@@ -1,0 +1,33 @@
+-- Found ament_cmake: 1.1.5 (/home/danielh/ros2_galactic/install/ament_cmake/share/ament_cmake/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found rclcpp: 9.2.0 (/home/danielh/ros2_galactic/install/rclcpp/share/rclcpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_introspection_c;rosidl_typesupport_fastrtps_c
+-- Found rosidl_adapter: 2.2.1 (/home/danielh/ros2_galactic/install/rosidl_adapter/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_introspection_cpp;rosidl_typesupport_fastrtps_cpp
+-- Found rmw_implementation_cmake: 3.3.1 (/home/danielh/ros2_galactic/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+-- Found rmw_cyclonedds_cpp: 0.22.4 (/home/danielh/ros2_galactic/install/rmw_cyclonedds_cpp/share/rmw_cyclonedds_cpp/cmake)
+-- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+-- Found crane_interfaces: 0.0.0 (/home/danielh/mas418_ros2_ws/install/crane_interfaces/share/crane_interfaces/cmake)
+-- Found ament_lint_auto: 0.10.6 (/home/danielh/ros2_galactic/install/ament_lint_auto/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/danielh/mas418_ros2_ws/build/crane_controller
+[35m[1mScanning dependencies of target talker[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/src/motion_ref_generator.cpp.o[0m
+[01m[K/home/danielh/mas418_ros2_ws/src/crane_controller/src/motion_ref_generator.cpp:8:10:[m[K [01;31m[Kfatal error: [m[Kcrane_interfaces/msg/cyl_vel_ref.hpp: No such file or directory
+    8 | #include [01;31m[K"crane_interfaces/msg/cyl_vel_ref.hpp"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/talker.dir/build.make:63: CMakeFiles/talker.dir/src/motion_ref_generator.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/talker.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

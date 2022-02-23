@@ -1,0 +1,14 @@
+/home/danielh/mas418_ros2_ws/install/crane_controller/lib/crane_controller/motion_ref_generator
+/home/danielh/mas418_ros2_ws/install/crane_controller/share/ament_index/resource_index/package_run_dependencies/crane_controller
+/home/danielh/mas418_ros2_ws/install/crane_controller/share/ament_index/resource_index/parent_prefix_path/crane_controller
+/home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/environment/ament_prefix_path.dsv
+/home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/environment/path.dsv
+/home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/local_setup.bash
+/home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/local_setup.sh
+/home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/local_setup.zsh
+/home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/local_setup.dsv
+/home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/package.dsv
+/home/danielh/mas418_ros2_ws/install/crane_controller/share/ament_index/resource_index/packages/crane_controller
+/home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/cmake/crane_controllerConfig.cmake
+/home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/cmake/crane_controllerConfig-version.cmake
+/home/danielh/mas418_ros2_ws/install/crane_controller/share/crane_controller/package.xml

@@ -1,0 +1,24 @@
+{
+  "package_name": "crane_interfaces",
+  "output_dir": "/home/danielh/mas418_ros2_ws/build/crane_interfaces/rosidl_generator_py/crane_interfaces",
+  "template_dir": "/home/danielh/ros2_galactic/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource",
+  "idl_tuples": [
+    "/home/danielh/mas418_ros2_ws/build/crane_interfaces/rosidl_adapter/crane_interfaces:msg/MotionReference.idl"
+  ],
+  "target_dependencies": [
+    "/home/danielh/ros2_galactic/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../../../lib/rosidl_generator_py/rosidl_generator_py",
+    "/home/danielh/ros2_galactic/install/rosidl_generator_py/lib/python3.8/site-packages/rosidl_generator_py/__init__.py",
+    "/home/danielh/ros2_galactic/install/rosidl_generator_py/lib/python3.8/site-packages/rosidl_generator_py/generate_py_impl.py",
+    "/home/danielh/ros2_galactic/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_action_pkg_typesupport_entry_point.c.em",
+    "/home/danielh/ros2_galactic/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_action.py.em",
+    "/home/danielh/ros2_galactic/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_idl_pkg_typesupport_entry_point.c.em",
+    "/home/danielh/ros2_galactic/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_idl_support.c.em",
+    "/home/danielh/ros2_galactic/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_idl.py.em",
+    "/home/danielh/ros2_galactic/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_msg_pkg_typesupport_entry_point.c.em",
+    "/home/danielh/ros2_galactic/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_msg_support.c.em",
+    "/home/danielh/ros2_galactic/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_msg.py.em",
+    "/home/danielh/ros2_galactic/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_srv_pkg_typesupport_entry_point.c.em",
+    "/home/danielh/ros2_galactic/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_srv.py.em",
+    "/home/danielh/mas418_ros2_ws/build/crane_interfaces/rosidl_adapter/crane_interfaces/msg/MotionReference.idl"
+  ]
+}
