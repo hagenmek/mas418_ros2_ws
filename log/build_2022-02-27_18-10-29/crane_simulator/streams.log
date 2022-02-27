@@ -1,0 +1,25 @@
+[1.915s] Invoking command in '/home/danielh/mas418_ros2_ws/src/crane_simulator': PYTHONPATH=/home/danielh/mas418_ros2_ws/install/crane_simulator/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/crane_simulator build --build-base /home/danielh/mas418_ros2_ws/build/crane_simulator/build install --prefix /home/danielh/mas418_ros2_ws/install/crane_simulator --record /home/danielh/mas418_ros2_ws/build/crane_simulator/install.log --single-version-externally-managed
+[2.337s] running egg_info
+[2.337s] writing ../../build/crane_simulator/crane_simulator.egg-info/PKG-INFO
+[2.337s] writing dependency_links to ../../build/crane_simulator/crane_simulator.egg-info/dependency_links.txt
+[2.338s] writing entry points to ../../build/crane_simulator/crane_simulator.egg-info/entry_points.txt
+[2.338s] writing requirements to ../../build/crane_simulator/crane_simulator.egg-info/requires.txt
+[2.338s] writing top-level names to ../../build/crane_simulator/crane_simulator.egg-info/top_level.txt
+[2.366s] reading manifest file '../../build/crane_simulator/crane_simulator.egg-info/SOURCES.txt'
+[2.367s] writing manifest file '../../build/crane_simulator/crane_simulator.egg-info/SOURCES.txt'
+[2.367s] running build
+[2.367s] running build_py
+[2.367s] copying crane_simulator/simulator.py -> /home/danielh/mas418_ros2_ws/build/crane_simulator/build/lib/crane_simulator
+[2.367s] running install
+[2.369s] running install_lib
+[2.370s] copying /home/danielh/mas418_ros2_ws/build/crane_simulator/build/lib/crane_simulator/simulator.py -> /home/danielh/mas418_ros2_ws/install/crane_simulator/lib/python3.8/site-packages/crane_simulator
+[2.371s] byte-compiling /home/danielh/mas418_ros2_ws/install/crane_simulator/lib/python3.8/site-packages/crane_simulator/simulator.py to simulator.cpython-38.pyc
+[2.372s] running install_data
+[2.372s] copying launch/simulator.launch.py -> /home/danielh/mas418_ros2_ws/install/crane_simulator/share/crane_simulator
+[2.372s] running install_egg_info
+[2.375s] removing '/home/danielh/mas418_ros2_ws/install/crane_simulator/lib/python3.8/site-packages/crane_simulator-0.0.0-py3.8.egg-info' (and everything under it)
+[2.375s] Copying ../../build/crane_simulator/crane_simulator.egg-info to /home/danielh/mas418_ros2_ws/install/crane_simulator/lib/python3.8/site-packages/crane_simulator-0.0.0-py3.8.egg-info
+[2.375s] running install_scripts
+[2.395s] Installing state_publisher script to /home/danielh/mas418_ros2_ws/install/crane_simulator/lib/crane_simulator
+[2.395s] writing list of installed files to '/home/danielh/mas418_ros2_ws/build/crane_simulator/install.log'
+[2.412s] Invoked command in '/home/danielh/mas418_ros2_ws/src/crane_simulator' returned '0': PYTHONPATH=/home/danielh/mas418_ros2_ws/install/crane_simulator/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/crane_simulator build --build-base /home/danielh/mas418_ros2_ws/build/crane_simulator/build install --prefix /home/danielh/mas418_ros2_ws/install/crane_simulator --record /home/danielh/mas418_ros2_ws/build/crane_simulator/install.log --single-version-externally-managed

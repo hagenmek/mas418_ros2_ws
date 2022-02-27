@@ -1,0 +1,27 @@
+[1.021s] Invoking command in '/home/danielh/mas418_ros2_ws/build/urdf_tutorial_r2d2': PYTHONPATH=/home/danielh/mas418_ros2_ws/install/urdf_tutorial_r2d2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/danielh/mas418_ros2_ws/install/urdf_tutorial_r2d2 --uninstall --editable --build-directory /home/danielh/mas418_ros2_ws/build/urdf_tutorial_r2d2/build
+[1.429s] running develop
+[1.579s] Invoked command in '/home/danielh/mas418_ros2_ws/build/urdf_tutorial_r2d2' returned '0': PYTHONPATH=/home/danielh/mas418_ros2_ws/install/urdf_tutorial_r2d2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/danielh/mas418_ros2_ws/install/urdf_tutorial_r2d2 --uninstall --editable --build-directory /home/danielh/mas418_ros2_ws/build/urdf_tutorial_r2d2/build
+[1.581s] Invoking command in '/home/danielh/mas418_ros2_ws/src/urdf_tutorial_r2d2': PYTHONPATH=/home/danielh/mas418_ros2_ws/install/urdf_tutorial_r2d2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/urdf_tutorial_r2d2 build --build-base /home/danielh/mas418_ros2_ws/build/urdf_tutorial_r2d2/build install --prefix /home/danielh/mas418_ros2_ws/install/urdf_tutorial_r2d2 --record /home/danielh/mas418_ros2_ws/build/urdf_tutorial_r2d2/install.log --single-version-externally-managed
+[1.951s] running egg_info
+[1.951s] writing ../../build/urdf_tutorial_r2d2/urdf_tutorial_r2d2.egg-info/PKG-INFO
+[1.952s] writing dependency_links to ../../build/urdf_tutorial_r2d2/urdf_tutorial_r2d2.egg-info/dependency_links.txt
+[1.952s] writing entry points to ../../build/urdf_tutorial_r2d2/urdf_tutorial_r2d2.egg-info/entry_points.txt
+[1.952s] writing requirements to ../../build/urdf_tutorial_r2d2/urdf_tutorial_r2d2.egg-info/requires.txt
+[1.952s] writing top-level names to ../../build/urdf_tutorial_r2d2/urdf_tutorial_r2d2.egg-info/top_level.txt
+[1.980s] reading manifest file '../../build/urdf_tutorial_r2d2/urdf_tutorial_r2d2.egg-info/SOURCES.txt'
+[1.981s] writing manifest file '../../build/urdf_tutorial_r2d2/urdf_tutorial_r2d2.egg-info/SOURCES.txt'
+[1.981s] running build
+[1.981s] running build_py
+[1.981s] copying urdf_tutorial_r2d2/state_publisher.py -> /home/danielh/mas418_ros2_ws/build/urdf_tutorial_r2d2/build/lib/urdf_tutorial_r2d2
+[1.981s] running install
+[1.983s] running install_lib
+[1.984s] copying /home/danielh/mas418_ros2_ws/build/urdf_tutorial_r2d2/build/lib/urdf_tutorial_r2d2/state_publisher.py -> /home/danielh/mas418_ros2_ws/install/urdf_tutorial_r2d2/lib/python3.8/site-packages/urdf_tutorial_r2d2
+[1.985s] byte-compiling /home/danielh/mas418_ros2_ws/install/urdf_tutorial_r2d2/lib/python3.8/site-packages/urdf_tutorial_r2d2/state_publisher.py to state_publisher.cpython-38.pyc
+[1.987s] running install_data
+[1.987s] running install_egg_info
+[1.989s] removing '/home/danielh/mas418_ros2_ws/install/urdf_tutorial_r2d2/lib/python3.8/site-packages/urdf_tutorial_r2d2-0.0.0-py3.8.egg-info' (and everything under it)
+[1.989s] Copying ../../build/urdf_tutorial_r2d2/urdf_tutorial_r2d2.egg-info to /home/danielh/mas418_ros2_ws/install/urdf_tutorial_r2d2/lib/python3.8/site-packages/urdf_tutorial_r2d2-0.0.0-py3.8.egg-info
+[1.990s] running install_scripts
+[2.010s] Installing state_publisher script to /home/danielh/mas418_ros2_ws/install/urdf_tutorial_r2d2/lib/urdf_tutorial_r2d2
+[2.010s] writing list of installed files to '/home/danielh/mas418_ros2_ws/build/urdf_tutorial_r2d2/install.log'
+[2.026s] Invoked command in '/home/danielh/mas418_ros2_ws/src/urdf_tutorial_r2d2' returned '0': PYTHONPATH=/home/danielh/mas418_ros2_ws/install/urdf_tutorial_r2d2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/urdf_tutorial_r2d2 build --build-base /home/danielh/mas418_ros2_ws/build/urdf_tutorial_r2d2/build install --prefix /home/danielh/mas418_ros2_ws/install/urdf_tutorial_r2d2 --record /home/danielh/mas418_ros2_ws/build/urdf_tutorial_r2d2/install.log --single-version-externally-managed
