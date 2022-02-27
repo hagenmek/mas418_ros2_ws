@@ -38,14 +38,15 @@
       <geometry>
         <box size="0 0 0"/>
       </geometry>
-      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <material name="green"/>
+      <origin xyz="0 0 0.956"/>
     </visual>
   </link>
 
   <joint name="crane_boom_to_toolpoint" type="fixed">
+    <origin rpy="0 0 0"  xyz="3.6 0 0"/>
     <parent link="crane_boom"/>
     <child link="toolpoint"/>
-    <origin rpy="0 0 0"  xyz="3.6 0 0"/>
   </joint>
 
 </robot>

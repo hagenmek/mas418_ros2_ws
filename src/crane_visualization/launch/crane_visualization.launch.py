@@ -21,7 +21,7 @@ def generate_launch_description():
     crane_config = os.path.join(
       get_package_share_directory('crane_visualization'),
       'urdf',
-      'simple_green_crane.urdf'
+      'green_crane.urdf'
       )
 
     model_arg = DeclareLaunchArgument(name='model', default_value=str(crane_config),
