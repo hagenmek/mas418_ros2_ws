@@ -1,0 +1,24 @@
+-- Install configuration: ""
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/launch
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/launch/crane_visualization.launch.py
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/meshes
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/meshes/frame_URDF.STL
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/meshes/boom_URDF.STL
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/rviz
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/rviz/urdf.rviz
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/urdf
+-- Installing: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/urdf/green_crane.urdf
+-- Installing: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/urdf/simple_green_crane.urdf
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/ament_index/resource_index/package_run_dependencies/crane_visualization
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/ament_index/resource_index/parent_prefix_path/crane_visualization
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/environment/path.dsv
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/local_setup.bash
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/local_setup.sh
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/local_setup.zsh
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/local_setup.dsv
+-- Installing: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/package.dsv
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/ament_index/resource_index/packages/crane_visualization
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/cmake/crane_visualizationConfig.cmake
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/cmake/crane_visualizationConfig-version.cmake
+-- Up-to-date: /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/package.xml

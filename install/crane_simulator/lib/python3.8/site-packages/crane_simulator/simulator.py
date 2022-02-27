@@ -66,12 +66,6 @@ class Simulator(Node):
         except KeyboardInterrupt:
             pass
 
-    def listener_callback(self, msg):
-        self.get_logger().info('Cylinder Velocity Reference: "%f"' % msg.cyl_vel_ref)
-
-        #omega_boom = msg.cyl_vel_ref 
-        #omega_boom = 1 * pi / 180.0    # rad/s
-
 def euler_to_quaternion(roll, pitch, yaw):
     qx = sin(roll/2) * cos(pitch/2) * cos(yaw/2) - cos(roll/2) * sin(pitch/2) * sin(yaw/2)
     qy = cos(roll/2) * sin(pitch/2) * cos(yaw/2) + sin(roll/2) * cos(pitch/2) * sin(yaw/2)

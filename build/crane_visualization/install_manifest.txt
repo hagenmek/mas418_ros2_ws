@@ -2,7 +2,6 @@
 /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/meshes/frame_URDF.STL
 /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/meshes/boom_URDF.STL
 /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/rviz/urdf.rviz
-/home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/urdf/simple_green_crane_fixed.urdf
 /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/urdf/green_crane.urdf
 /home/danielh/mas418_ros2_ws/install/crane_visualization/share/crane_visualization/urdf/simple_green_crane.urdf
 /home/danielh/mas418_ros2_ws/install/crane_visualization/share/ament_index/resource_index/package_run_dependencies/crane_visualization
