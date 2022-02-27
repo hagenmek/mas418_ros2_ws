@@ -14,7 +14,6 @@ from crane_interfaces.msg import MotionReference
 class Simulator(Node):
 
     def __init__(self):
-        rclpy.init()
         super().__init__('simulator')
         qos_profile = QoSProfile(depth=10)
 
@@ -28,7 +27,7 @@ class Simulator(Node):
 
         # robot state
         theta_boom = 0.
-        omega_boom = 0 * degree    # rad/s
+        omega_boom = 1 * degree    # rad/s
 
         # message declarations
         odom_trans = TransformStamped()
@@ -58,9 +57,6 @@ class Simulator(Node):
                 self.joint_pub.publish(joint_state)
                 self.broadcaster.sendTransform(odom_trans)
 
-                #print("test:")
-                #print(theta_boom)
-
                 # Create new robot state
                 theta_boom += omega_boom
 
@@ -70,6 +66,12 @@ class Simulator(Node):
         except KeyboardInterrupt:
             pass
 
+    def listener_callback(self, msg):
+        self.get_logger().info('Cylinder Velocity Reference: "%f"' % msg.cyl_vel_ref)
+
+        #omega_boom = msg.cyl_vel_ref 
+        #omega_boom = 1 * pi / 180.0    # rad/s
+
 def euler_to_quaternion(roll, pitch, yaw):
     qx = sin(roll/2) * cos(pitch/2) * cos(yaw/2) - cos(roll/2) * sin(pitch/2) * sin(yaw/2)
     qy = cos(roll/2) * sin(pitch/2) * cos(yaw/2) + sin(roll/2) * cos(pitch/2) * sin(yaw/2)
@@ -78,6 +80,7 @@ def euler_to_quaternion(roll, pitch, yaw):
     return Quaternion(x=qx, y=qy, z=qz, w=qw)
 
 def main():
+    rclpy.init()
     node = Simulator()
 
 if __name__ == '__main__':
